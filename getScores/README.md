@@ -1,4 +1,4 @@
-Corresponding code used to obtain the results in scores.csv
+## Corresponding code used to obtain the results in scores.csv
 
 Column D: cvBuildPhalanxInCv.R 
 
