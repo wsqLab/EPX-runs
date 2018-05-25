@@ -9,3 +9,11 @@ Column F: missing
 Column G: cvSameFold.R
 
 Column H: cvSameFold.R	
+
+| Column  | Code File |
+| ------------- | ------------- |
+| D  | cvBuildPhalanxInCv.R  |
+| E  | cvBuildPhalanxFirst.R	|
+| F  | missing|
+| G  | cvSameFold.R|
+| H  | cvSameFold.R  |
