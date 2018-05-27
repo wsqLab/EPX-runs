@@ -1,5 +1,0 @@
-,Run,EPX (2015 paper Table 4),Allen's Replication 1 (get new set of phalanxes at the start of each CV)tthe,Allen's Replication 2 (get new phalanx at the start of each 16 replications of 10-fold CV),Honest CV,"10-fold CV A (get phalanx before CV, using same folds as 10-fold CV B)","10-fold CV B (get phalanx inside CV, use same folds as 10-fold CV A)"
-BN,1,0.143,0.1503447 ,0.1417806 ,0.09559401 ,0.1593147 ,0.1004968 
-,2,0.153,0.1524056 ,0.1624500 ,0.10964489 ,0.2030481 ,0.1149169 
-,3,0.132,0.1531755,0.1581394,0.12800493,0.1426961,0.1031042
-Total Time,,,4.758633 hours,1.05005 hours,2.190332 hours,2.561145 hours (total time for 10-fold CV A and 10-fold CV B),
