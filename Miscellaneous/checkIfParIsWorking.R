@@ -16,7 +16,7 @@ cvSeq = function(i, dat, initialGroups = c(1:(ncol(dat)-1)), phalanxes){
      predAllRF = numeric(nrow(dat))
      predAllEnsemble = numeric(nrow(dat))
      
-     #run cv in parallel
+     #run cv in sequential
      for (j in 1:10 %% 10){
           #get training and test set
           cvIndex = c(1:nrow(dat)) %% 10
